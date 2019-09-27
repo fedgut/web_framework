@@ -1,0 +1,76 @@
+.bord-left {
+  border-left: 1px solid rgba(194, 194, 195, 0.671);
+}
+
+.bord-bot {
+  border-bottom: 1px solid rgba(194, 194, 195, 0.671);
+}
+
+.tac {
+  text-align: center;
+}
+
+.tal {
+  text-align: left;
+  text-align: start;
+}
+
+.tar {
+  text-align: right;
+  text-align: end;
+}
+
+.taj {
+  text-align: justify;
+}
+
+.oflow-h {
+  overflow: hidden;
+}
+
+.ttc {
+  text-transform: capitalize;
+}
+
+.ttu {
+  text-transform: uppercase;
+}
+
+.pad-tb-10 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pad-tb-15 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pad-tb-20 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pad-lr-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pad-lr-15 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pad-lr-20 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.border {
+  border: 5px solid black;
+}
+
+.detect {
+  background: pink;
+  border: orange;
+}
