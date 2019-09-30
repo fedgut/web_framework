@@ -1,0 +1,61 @@
+body {
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(235, 235, 235));
+}
+
+a {
+  color: rgba(36, 36, 36, 0.815);
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.material-icons {
+  color: rgb(106, 191, 195);
+  font-size: 36px;
+}
+
+.logo {
+  height: 5rem;
+}
+
+.media_logo {
+  height: 25px;
+}
+
+.container-fluid {
+  max-width: 800px;
+}
+
+p {
+  font-size: 1.5rem;
+  color: rgb(85, 85, 85);
+  line-height: 1.5;
+  padding: 10px;
+}
+
+ol {
+  font-size: 1.125rem;
+  line-height: 2.25;
+}
+
+ol > li > a {
+  color: #cc9543;
+}
+
+.shadowed {
+  box-shadow: 0 5px 16px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 20px;
+}
+
+.navbar-2 {
+  width: 650px;
+}
+
+footer {
+  padding: 40px;
+  background: white;
+}
+
+.media_icon_container {
+  padding: 0 40px;
+}
