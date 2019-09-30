@@ -12,7 +12,7 @@ A clone of The Odin Project built with our own framework
 
 # Using the Framework
 
-- The framework separates CSS files according to function:
+- The framework separates CSS files according to function to make it easier to maintain:
   -cssreset.css to homologate style irrespective of browser
   -layout.css has general containers
   -grid.css has the grid elements and classes
