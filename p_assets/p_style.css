@@ -11,6 +11,10 @@
   height: 5rem;
 }
 
+.media_logo {
+  height: 20px;
+}
+
 .container-fluid {
   max-width: 600px;
   margin: auto;
@@ -36,4 +40,8 @@ ol > li > a {
   box-shadow: 0 5px 16px 0 rgba(0, 0, 0, 0.1);
   background-color: #fff;
   padding: 20px;
+}
+
+.navbar-2 {
+  width: 650px;
 }
