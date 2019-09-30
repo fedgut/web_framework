@@ -49,11 +49,6 @@
   padding: 15px;
 }
 
-.container-fluid {
-  max-width: 1200px;
-  margin: auto;
-}
-
 .row {
   display: flex;
   flex-wrap: wrap;

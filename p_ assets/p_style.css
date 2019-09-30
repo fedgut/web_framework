@@ -1,0 +1,39 @@
+.body {
+  background-color: #fdfdfd;
+}
+
+.material-icons {
+  color: rgb(106, 191, 195);
+  font-size: 36px;
+}
+
+.logo {
+  height: 5rem;
+}
+
+.container-fluid {
+  max-width: 600px;
+  margin: auto;
+}
+
+p {
+  font-size: 1.125rem;
+  color: rgb(85, 85, 85);
+  line-height: 1.5;
+  padding: 10px;
+}
+
+ol {
+  font-size: 1.125rem;
+  line-height: 2.25;
+}
+
+ol > li > a {
+  color: #cc9543;
+}
+
+.shadowed {
+  box-shadow: 0 5px 16px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 20px;
+}
