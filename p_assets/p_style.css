@@ -1,5 +1,10 @@
-.body {
-  background-color: #fdfdfd;
+body {
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(235, 235, 235));
+}
+
+a {
+  color: rgba(36, 36, 36, 0.815);
+  font-weight: bold;
 }
 
 .material-icons {
@@ -17,7 +22,6 @@
 
 .container-fluid {
   max-width: 600px;
-  margin: auto;
 }
 
 p {
@@ -44,4 +48,13 @@ ol > li > a {
 
 .navbar-2 {
   width: 650px;
+}
+
+footer {
+  padding: 40px;
+  background: white;
+}
+
+.media_icon_container {
+  padding: 0 40px;
 }
