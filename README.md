@@ -1,6 +1,6 @@
 # Building with responsive design
 
-A clone of The Odin Project built with our own framework
+A clone of [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3#basic-html-page-structure) built with our own framework
 
 [Demo](https://raw.githack.com/fedgut/web_framework/create_framework/styles_display.html)
 
@@ -13,10 +13,10 @@ A clone of The Odin Project built with our own framework
 # Using the Framework
 
 - The framework separates CSS files according to function to make it easier to maintain:
-  -cssreset.css to homologate style irrespective of browser
-  -layout.css has general containers
-  -grid.css has the grid elements and classes
-  -style.css has padding, margins, borders and other stylistic choices that dont change layout
+  <br>-cssreset.css to homologate style irrespective of browser
+  <br>-layout.css has general containers
+  <br>-grid.css has the grid elements and classes
+  <br>-style.css has padding, margins, borders and other stylistic choices that dont change layout <br>
   -All this diferent stylesheets are already linked in the html_template.html file, use it as a starting point for your projects
 - assets and css folders are exclusive to the framework files, project assets should be stored in p_assets
 - to use icon fonts you must link the font stylesheet as in any other font
