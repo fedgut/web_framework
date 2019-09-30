@@ -1,5 +1,15 @@
 {
+  "scripts": {
+    "fix-styles": "prettier-stylelint --write 'src/**/*.{css,scss}' "
+  },
   "dependencies": {
     "stylelint-config-recommended": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier-eslint": "^9.0.0",
+    "prettier-eslint-cli": "^5.0.0",
+    "prettier-stylelint": "^0.4.2",
+    "stylelint-config-prettier": "^6.0.0",
+    "stylelint-prettier": "^1.1.1"
   }
 }
