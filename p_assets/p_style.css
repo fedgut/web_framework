@@ -5,6 +5,7 @@ body {
 a {
   color: rgba(36, 36, 36, 0.815);
   font-weight: bold;
+  font-size: 1.4rem;
 }
 
 .material-icons {
@@ -17,15 +18,15 @@ a {
 }
 
 .media_logo {
-  height: 20px;
+  height: 25px;
 }
 
 .container-fluid {
-  max-width: 600px;
+  max-width: 800px;
 }
 
 p {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   color: rgb(85, 85, 85);
   line-height: 1.5;
   padding: 10px;
